@@ -1,1 +1,0 @@
-console.log("Reuben Ayamga, ", 25,",", "Python");
